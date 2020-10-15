@@ -1,5 +1,9 @@
 
 # README Generator
+
+## Example usage
+
+[Video](https://drive.google.com/file/d/1jynuVqLlt_TAQ69wP7SAgA29WKxYrxCF/view)
     
 ## Table of Contents
 [Title](#README-Generator)
@@ -38,6 +42,6 @@ Open index.js in terminal and run "node index.js" and follow the prompts
 
 ## Contact
 
-[alhoffiq](https://github.com/alhoffiq)
+GitHub: [alhoffiq](https://github.com/alhoffiq)
 
-[andrew.hoff14@yahoo.com](mailto:andrew.hoff14@yahoo.com)
+Email: [andrew.hoff14@yahoo.com](mailto:andrew.hoff14@yahoo.com)

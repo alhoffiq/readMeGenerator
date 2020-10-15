@@ -110,8 +110,8 @@ ${answers.tests}
 
 ## Contact
 
-[${answers.gitHub}](https://github.com/${answers.gitHub})
+GitHub: [${answers.gitHub}](https://github.com/${answers.gitHub})
 
-[${answers.email}](mailto:${answers.email})
+Email: [${answers.email}](mailto:${answers.email})
 `;
 }
