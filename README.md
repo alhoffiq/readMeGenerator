@@ -1,8 +1,8 @@
 
-# Test [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README Generator
     
 ## Table of Contents
-[Title](#Test)
+[Title](#README-Generator)
 
 [Description](#Description)
 
@@ -18,23 +18,23 @@
 
 ## Description
 
-This is a test
+A CLI based README.md generator that will create a new README.md with inputs supplied by the user in a format just like this one
 
 ## Installation
 
-You don't install a test
+Download from my GitHub profile
 
 ## Usage
 
-Don't test outside testing
+Feel free to use however you like!
 
 ## Contributions
 
-undefined
+Feel free to suggest improvements!
 
 ## Testing
 
-Test to test
+Open index.js in terminal and run "node index.js" and follow the prompts
 
 ## Contact
 

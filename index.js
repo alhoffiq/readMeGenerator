@@ -61,7 +61,7 @@ inquirer
         console.log("Answers received!");
         console.log(answers);
         let readMe = generateReadMe(answers);
-        return writeFileAsync("README.md", readMe);
+        return writeFileAsync("generatedREADME.md", readMe);
     });
 
 function generateReadMe(answers) {
