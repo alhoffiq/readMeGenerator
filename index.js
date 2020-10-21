@@ -102,7 +102,7 @@ ${answers.usage}
 
 ## Contributions
 
-${answers.contributions}
+${answers.guidelines}
 
 ## Testing
 
